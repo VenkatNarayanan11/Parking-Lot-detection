@@ -3,7 +3,7 @@ import cv2
 
 image = cv2.imread("parking_lines.png")
 
-# Class to get the position of each point by left mouse click
+# Class to get the position of parking lines in the image by left mouse click
 
 
 class CoordinateStore:
