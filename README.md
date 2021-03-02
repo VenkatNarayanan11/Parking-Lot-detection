@@ -20,7 +20,7 @@
 
 ## Description
 
-Implemented image processing techniques on the popular Lenna image and on a parking lot image. Some of the basic operations include RGB to gray conversion, down sampling the image from 256*256 to 64*64, edge detection using Convolution technique, histogram analysis, cumulative histogram analysis, histogram equalizaton, comparing the difference between the original image and the histogram equalized image, Parking lane lines detection using hough transform, polar transform, and finding the parking spot using the detected lane lines.
+Implemented image processing techniques on the popular Lenna image and on a parking lot image. Some of the basic operations include RGB to gray conversion, down sampling the image from 256 * 256 to 64 * 64, edge detection using Convolution technique, histogram analysis, cumulative histogram analysis, histogram equalizaton, comparing the difference between the original image and the histogram equalized image, Parking lane lines detection using hough transform, polar transform, and finding the parking spot using the detected lane lines.
 
 The final output of the above said operations: 
 
