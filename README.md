@@ -77,6 +77,8 @@ The final output of the above said operations:
 
 - Python
 - OpenCV
+- Numpy
+- Matplotlib
 - Visual studio code
 - Colaboratory
 
